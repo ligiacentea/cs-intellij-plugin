@@ -1,2 +1,2 @@
 # cs-intellij-plugin
-IntelliJ IDEA plugin for CLoudSlang
+IntelliJ IDEA plugin for CloudSlang
